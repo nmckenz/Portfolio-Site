@@ -246,12 +246,12 @@ main {
 
 .loader {
   color: #f7be16;
-  margin-top: 20vh;
+  margin-top: 30vh;
 }
 
 .loader p {
   display: inline;
-  margin: 20vh 0;
+  margin: 5vh 0;
   font-size: 2rem;
   padding-left: 50px;
 }
@@ -293,7 +293,7 @@ main {
       -ms-flex-pack: justify;
           justify-content: space-between;
   margin: 0 auto;
-  margin-top: 30vh;
+  margin-top: 15vh;
 }
 
 .socialLinks a {
