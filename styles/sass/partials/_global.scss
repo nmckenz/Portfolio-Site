@@ -1,11 +1,38 @@
-// COLOURS---------------------------
-
-// f7be16
-// ec9b3b
-// 00818a
-// 293462
-
 body {
+    border: 1px solid red;
+
+    
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Oswald', sans-serif;
+
+    font-family: 'Open Sans', sans-serif;
+
+
+
     font-size: 125%;
-    background-color: #00818a;
+    background: white;
+
+
+}
+
+.wrapper {
+    margin: 5%;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    color: $primaryFontColor;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+h2 {
+    font-size: 4rem;
 }
